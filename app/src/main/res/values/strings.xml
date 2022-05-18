@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="Name">Omip</string>
+    <string name="avatar">Avatar</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">My name is omi...\n
+        \ni am 23 years old.
+       \nHere we bring you a complete Android App Development Course With KOTLIN
+       \nIn Hindi For Free.
+       \nThis is the class 17 of the complete series.
+       \nThe course will be divided into Two partsDeveloping Android Apps with KOTLIN.
+        \nAdvanced Android with KOTLIN
+        \nHere we bring you a complete Android App Development Course With KOTLIN
+        \nIn Hindi For Free.
+        \nThis is the class 17 of the complete series.
+        \nThe course will be divided into Two partsDeveloping Android Apps.
+
+    </string>
+    <string name="what_is_your_nick_name">What is your nickname</string>
+    <string name="done">Done</string>
+
+</resources>
